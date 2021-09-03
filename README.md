@@ -1,3 +1,25 @@
+# Sidetrade's Code Academy - Intro to Web
+
+Welcome to the second part of Sidetrade's Code Academy course!
+
+## Setting up
+
+### Use template
+
+Once you're logged in with your GitHub account, you should be able to click the "Use this template" button.
+
+When you click this, you will  be able to name your repository and create your own copy.
+
+### Opening with Gitpod
+
+Gitpod builds you a development environment right in your browser so that we don't need to setup and install all the different components/parts of a toolkit that a developer may need. It helps to make this part as accessible as possible so that we don't have to worry different laptop setups & installation problems, all you need is Google Chrome, a Chrome Extension & a GitHub account.
+
+https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki?hl=en
+
+By clicking the above link & installing Gitpod, you should now be able to go to your repository and open it within Gitpod without actually installing anything on your machine.
+
+# Next.js
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
